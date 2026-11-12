@@ -1,0 +1,1 @@
+# latihan8.py
